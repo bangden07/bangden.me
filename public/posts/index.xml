@@ -6,16 +6,7 @@
     <description>Recent content in Posts on 👋 Bang Den it&#39;s me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Feb 2022 18:40:53 +0700</lastBuildDate><atom:link href="https://bangden.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://bangden.me/posts/works/contact/</link>
-      <pubDate>Mon, 14 Feb 2022 18:40:53 +0700</pubDate>
-      
-      <guid>https://bangden.me/posts/works/contact/</guid>
-      <description>bangden07[at]gmail[dot]com</description>
-    </item>
-    
+    <lastBuildDate>Mon, 14 Feb 2022 18:40:26 +0700</lastBuildDate><atom:link href="https://bangden.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kosong</title>
       <link>https://bangden.me/posts/kosong/</link>
@@ -23,6 +14,16 @@
       
       <guid>https://bangden.me/posts/kosong/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bangden.me/posts/works/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bangden.me/posts/works/contact/</guid>
+      <description>Touch Me 😎 Hey, u can touch me via email.
+💃 💃 💃 💃 💃</description>
     </item>
     
   </channel>
