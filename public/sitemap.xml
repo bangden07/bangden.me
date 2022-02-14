@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bangden.me/posts/works/contact/</loc>
+    <lastmod>2022-02-14T18:40:53+07:00</lastmod>
+  </url><url>
+    <loc>https://bangden.me/posts/</loc>
+    <lastmod>2022-02-14T18:40:53+07:00</lastmod>
+  </url><url>
+    <loc>https://bangden.me/</loc>
+    <lastmod>2022-02-14T18:40:53+07:00</lastmod>
+  </url><url>
+    <loc>https://bangden.me/posts/kosong/</loc>
+    <lastmod>2022-02-14T18:40:26+07:00</lastmod>
+  </url><url>
     <loc>https://bangden.me/categories/</loc>
   </url><url>
     <loc>https://bangden.me/tags/</loc>
-  </url><url>
-    <loc>https://bangden.me/</loc>
   </url>
 </urlset>
