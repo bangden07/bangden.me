@@ -6,7 +6,7 @@ frontend:
         - npm i hugo-extended
     build:
       commands:
-        - hugo
+        - hugo -D
   artifacts:
     baseDirectory: public
     files:
