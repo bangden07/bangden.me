@@ -1,8 +1,4 @@
 customHeaders:
-  - pattern: '/static/*'
-    headers:
-      - key: 'Cache-Control'
-        value: 's-maxage=31536000'
   - pattern: '**/*'
     headers:
       - key: 'Strict-Transport-Security'
